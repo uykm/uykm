@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=30&height=100)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=20&height=120)
 <br>
 ## 
 Hi, there!👋 <br>
@@ -10,5 +10,6 @@ Have a good day!😁<br>
 ## 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-thebadge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <br>
+##
 ### About me 🎧
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/)
