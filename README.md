@@ -15,3 +15,4 @@ Have a good day!😁<br>
 <br>
 
 ### About me 🎧
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Uykm_Note})](https://ukym-tistory.tistory.com/)
