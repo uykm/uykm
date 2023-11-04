@@ -4,25 +4,21 @@
 
 Hi, there!👋 <br>
 I am a computer engineering student at Seoultech and studying backend development. <br>
->Have a good day!😁<br>
+Have a good day!😁<br>
 
 <br>
 
 ### Languages🖌️
-<br>
 <img src="https://img.shields.io/badge/java-F05032?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 <br>
-<br>
 
 ### Tools🎨
-<br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 ### About me!</div>
-<br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
