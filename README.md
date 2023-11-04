@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=40&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=40&height=180)
 
 <div align=center>Tech Stacks</div>
 <br>
