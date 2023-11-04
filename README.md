@@ -8,7 +8,7 @@ I am a computer engineering student at Seoultech and studying backend developmen
 
 <br>
 
-###Languages🖌️
+### Languages🖌️
 <br>
 <img src="https://img.shields.io/badge/java-F05032?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -17,12 +17,12 @@ I am a computer engineering student at Seoultech and studying backend developmen
 <br>
 <br>
 
-###Tools🎨
+### Tools🎨
 <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-###About me!</div>
+### About me!</div>
 <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
