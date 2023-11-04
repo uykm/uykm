@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gray&text=&animation=twinkling&height=80)
-![header](https://capsule-render.vercel.app/api?text=Welcome%10to%10uykm&10GitHub%10&animation=twikling&fontColor=)
+![header](https://capsule-render.vercel.app/api?text=Welcome%to%uykm&GitHub!&fontColor=black&animation=twikling)
 
 
 
