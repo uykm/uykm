@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=20&height=80)
-<br>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=20&height=40)
 ## 
 Hi, there!👋 <br>
 I am a computer engineering student at Seoultech and studying backend development. <br> <br>
