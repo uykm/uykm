@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=40&height=180)
 <br>
 
-<div align=center>Hi, there!</div> <br>
+<div align=center>Hi, there!👋</div> <br>
 <div align=center>I am a computer engineering student at Seoultech and studying backend development.</div> <br>
 <div align=center>Have a good day!😁</div> <br>
 
