@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=40&height=180)
 
+<center>
+Hi, there!
+I am a computer engineering student at Seoultech and studying backend development.
+Have a good day!
+</center>
+
 <br>
 
 <div align=center>Languages</div>
