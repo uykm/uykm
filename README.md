@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20GitHub%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
 ### Hi there  👋
 
 <!--
