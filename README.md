@@ -3,7 +3,7 @@
 <br>
 
 Hi, there!👋 <br>
-I am a computer engineering student at Seoultech and studying backend development. <br>
+I am a computer engineering student at Seoultech and studying backend development. <br> <br>
 Have a good day!😁<br>
 
 <br>
