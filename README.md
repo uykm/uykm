@@ -2,7 +2,7 @@
 
 <br>
 
-<div align=center>Tech Stacks</div>
+<div align=center></div>
 <br>
 
 <div align=center>
