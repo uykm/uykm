@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=40&height=180)
 <br>
+<br>
 
 <div align=center>Hi, there!👋</div> <br>
 <div align=center>I am a computer engineering student at Seoultech and studying backend development.</div> <br>
@@ -7,7 +8,7 @@
 
 <br>
 
-<div align=center>Languages🖌️</div>
+###<div align=center>Languages🖌️</div>
 <br>
 <div align=center>
 <img src="https://img.shields.io/badge/java-F05032?style=for-the-badge&logo=java&logoColor=white"> 
@@ -18,7 +19,7 @@
 <br>
 <br>
 
-<div align=center>Tools🎨</div>
+###<div align=center>Tools🎨</div>
 <br>
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
