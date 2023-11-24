@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=25&height=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Welcome%20to%20uykm%20-%20GitHub!&fontSize=25&height=80)
 
 ## 
 Hi, there!👋 <br>
