@@ -1,14 +1,9 @@
-## 🎧 
+## 🎧 도메인에 대해 이해하고 있는 개발자 신민규입니다!
 
 > 
-> <br>
 > 👉 Contact: uykmsh@naver.com
 
-<br>
-
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/)
-
-<br></br>
 
 ## ⛓️‍💥 Experience
 
