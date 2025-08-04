@@ -1,9 +1,12 @@
-## 🎧 도메인에 대해 이해하고 있는 개발자 신민규입니다!
+# 도메인을 이해하고 건의도 할 줄 아는 개발자
 
+> 단순히 구현만 하는 개발자가 아닌, 개발하려는 기능에 대해 다양한 시각에서 접근하고 끊임없이 고민합니다.
 > 
 > 👉 Contact: uykmsh@naver.com
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/)
+
+<br></br>
 
 ## ⛓️‍💥 Experience
 
