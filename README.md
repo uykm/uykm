@@ -17,7 +17,7 @@
 | Tools(툴스)  | 2023.12 ~ 2024.12   | [서울과학기술대학교 컴퓨터공학과 학술 동아리](https://www.instagram.com/seoultech_tools/), 28기 회장 |
 | GDSC 3기 | 2023.08 ~ 2024.08   | Google 개발자 기술에 관심이 있는 학생들을 위한 대학 기반 커뮤니티 그룹, SERVER 파트원 |
 | GDG on Campus 4기 | 2024.09 ~ 2025.08   | Google 개발자 기술에 관심이 있는 학생들을 위한 대학 기반 커뮤니티 그룹, FE 파트원 |
-| AT SOPT 36기 | 2024.03 ~ 2024.07  | 대학생 연합 IT 벤처 창업 연합 SOPT 36기 Server  |
+| AT SOPT 36기 | 2024.03 ~ 2024.07  | 대학생 연합 IT 벤처 창업 연합 동아리 SOPT 36기 Server  |
 
 <br></br>
 
