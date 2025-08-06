@@ -6,7 +6,6 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/)
 
-<br></br>
 
 ## ⛓️‍💥 Experience
 
@@ -19,7 +18,6 @@
 | GDG on Campus 4기 | 2024.09 ~ 2025.08   | Google 개발자 기술에 관심이 있는 학생들을 위한 대학 기반 커뮤니티 그룹, FE 파트원 |
 | AT SOPT 36기 | 2024.03 ~ 2024.07  | 대학생 연합 IT 벤처 창업 연합 동아리 SOPT 36기 Server  |
 
-<br></br>
 
 ## ⏳ Projects
 
@@ -29,7 +27,6 @@
 | Memozy | 2024.03 ~ 진행중 | 기록해두고 싶은 순간들이 있지만, 기록이 귀찮은 사람들이 쉽게 기록할 수 있도록 도와주는 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/memozy/id6744085415), [GitHub](https://github.com/nostroke-inatools/back) |
 | 솔플리  | 2024.06 ~ 진행중 | 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [GitHub](https://github.com/nostroke-inatools/back) |
 
-<br></br>
 
 ## 🏆 Awards
 
@@ -41,12 +38,9 @@
 | Sopt 36 Appzam | 참여 | [솔플리](https://github.com/nostroke-inatools/back) / 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [링크 X]() | 
 
 
-<br></br>
 
 ## 🪪 Certificates
 
-
-<br></br>
 
 ## 🔑 Tech
 
@@ -57,7 +51,6 @@
 ### DevOps
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
 
 ## P.S.
 
