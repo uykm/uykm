@@ -4,7 +4,9 @@
 > 
 > 👉 Contact: uykmsh@naver.com
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/) <br><br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=uykm.log)](https://velog.io/@uykm) <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=uykm)](https://velog.io/@uykm)
 
 
 ## ⛓️‍💥 Experience
