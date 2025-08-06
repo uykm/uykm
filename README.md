@@ -34,8 +34,8 @@
 |-------------------------|-------|---------------------|-------------------------|
 | GDSC 2024 New Year 해커톤     | 최우수상(1등) | [Influence](https://github.com/GDSC-Team-F) / 백신 예방접종 내역 관리 서비스 | [CAU News](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&P_TAB_NO=1&TAB_NO=&BBS_SEQ=7816) |
 | 사이드 임팩트 2024 - 스파크 트랙   | 최종 선정 | [노졸중](https://github.com/nostroke-inatools/back) / 혼자 거주하는 노인의 뇌졸중 위험을 AI 기반 자가점검 시스템을 통해 신속하게 파악하고, 보호자와 연동하여 건강 기록을 관리하는 서비스 | [사이드임팩트 사이트](https://pages.sideimpact.io/projects/7mh3w/) |
-| Sopkathon 2025 | 최우수상 | [이리온나](https://github.com/SOPT-all/36-SOPKATHON-SERVER-ANDROID4) / 경남 여행 코스 추천 서비스 | [SOPT Playground](https://github.com/SOPT-all/36-SOPKATHON-SERVER-ANDROID4) |
-| Sopt 36 Appzam | 참여 | [솔플리](https://github.com/nostroke-inatools/back) / 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [링크 X]() | 
+| Sopt 36기 Sopkathon | 최우수상 | [이리온나](https://github.com/SOPT-all/36-SOPKATHON-SERVER-ANDROID4) / 경남 여행 코스 추천 서비스 | [SOPT Playground](https://github.com/SOPT-all/36-SOPKATHON-SERVER-ANDROID4) |
+| Sopt 36기 Appzam | 참여 | [솔플리](https://github.com/nostroke-inatools/back) / 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [링크 X]() | 
 
 
 
