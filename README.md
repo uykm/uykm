@@ -26,8 +26,8 @@
 | 프로젝트              | 진행 기간             | 한 줄 소개 | 링크 |
 |-------------------------|---------------------|------|------|
 | 노졸중            | 2024.06 ~ 2024.08    | 혼자 거주하는 노인의 뇌졸중 위험을 AI 기반 자가점검 시스템을 통해 신속하게 파악하고, 보호자와 연동하여 건강 기록을 관리하는 모바일 애플리케이션  | [GitHub](https://github.com/nostroke-inatools/back) |
-| Memozy | 2024.03 ~ 진행중 | 기록해두고 싶은 순간들이 있지만, 기록이 귀찮은 사람들이 쉽게 기록할 수 있도록 도와주는 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/memozy/id6744085415), [GitHub](https://github.com/nostroke-inatools/back) |
-| 솔플리  | 2024.06 ~ 진행중 | 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [GitHub](https://github.com/nostroke-inatools/back) |
+| Memozy | 2024.03 ~ 진행중 | 기록해두고 싶은 순간들이 있지만, 기록이 귀찮은 사람들이 쉽게 기록할 수 있도록 도와주는 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/memozy/id6744085415), [GitHub](https://github.com/MEMOZY/memozy-back) |
+| 솔플리  | 2024.06 ~ 진행중 | 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [GitHub](https://github.com/SOLPLY/SOLPLY-SERVER) |
 
 
 ## 🏆 Awards
@@ -37,7 +37,7 @@
 | GDSC 2024 New Year 해커톤     | 최우수상(1등) | [Influence](https://github.com/GDSC-Team-F) / 백신 예방접종 내역 관리 서비스 | [CAU News](https://news.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=10&CONTENTS_NO=&SITE_NO=5&BOARD_SEQ=1&BOARD_CATEGORY_NO=&P_TAB_NO=1&TAB_NO=&BBS_SEQ=7816) |
 | 사이드 임팩트 2024 - 스파크 트랙   | 최종 선정 | [노졸중](https://github.com/nostroke-inatools/back) / 혼자 거주하는 노인의 뇌졸중 위험을 AI 기반 자가점검 시스템을 통해 신속하게 파악하고, 보호자와 연동하여 건강 기록을 관리하는 서비스 | [사이드임팩트 사이트](https://pages.sideimpact.io/projects/7mh3w/) |
 | Sopt 36기 Sopkathon | 최우수상 | [이리온나](https://github.com/SOPT-all/36-SOPKATHON-SERVER-ANDROID4) / 경남 여행 코스 추천 서비스 | [SOPT Playground](https://github.com/SOPT-all/36-SOPKATHON-SERVER-ANDROID4) |
-| Sopt 36기 Appzam | 참여 | [솔플리](https://github.com/nostroke-inatools/back) / 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [링크 X]() | 
+| Sopt 36기 Appzam | 참여 | [솔플리](https://github.com/SOLPLY/SOLPLY-SERVER) / 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [링크 X]() | 
 
 
 
