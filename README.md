@@ -25,7 +25,7 @@
 
 | 프로젝트              | 진행 기간             | 한 줄 소개 | 링크 |
 |-------------------------|---------------------|------|------|
-| 노졸중            | 2024.06 ~ 2024.08    | 혼자 거주하는 노인의 뇌졸중 위험을 AI 기반 자가점검 시스템을 통해 신속하게 파악하고, 보호자와 연동하여 건강 기록을 관리하는 모바일 애플리케이션  | [GitHub](https://github.com/nostroke-inatools/back) |
+| 노졸중            | 2024.06 ~ 2024.10    | 혼자 거주하는 노인의 뇌졸중 위험을 AI 기반 자가점검 시스템을 통해 신속하게 파악하고, 보호자와 연동하여 건강 기록을 관리하는 모바일 애플리케이션  | [GitHub](https://github.com/nostroke-inatools/back) |
 | Memozy | 2024.03 ~ 진행중 | 기록해두고 싶은 순간들이 있지만, 기록이 귀찮은 사람들이 쉽게 기록할 수 있도록 도와주는 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/memozy/id6744085415), [GitHub](https://github.com/MEMOZY/memozy-back) |
 | 솔플리  | 2024.06 ~ 진행중 | 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [GitHub](https://github.com/SOLPLY/SOLPLY-SERVER) |
 
