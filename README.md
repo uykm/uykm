@@ -1,6 +1,6 @@
 # 도메인을 이해하고 사용자 중심적으로 사고하는 개발자
 
-> 단순히 구현만 하는 개발자가 아닌, 개발하려는 기능에 대해 다양한 시각에서 접근하고 끊임없이 고민합니다. <br>
+> 구현보다 설계에 집중하는 AI Native 개발자를 목표로 하고 있습니다!<br>
 > 👉 Contact: uykmsh@naver.com
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/) <br>
