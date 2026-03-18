@@ -1,5 +1,5 @@
-## 도메인을 이해하고 설계에 집중하는 백엔드 엔지니어
-> 기본에 충실하고 구현보다 설계에 집중하는 AI Native 개발자를 목표로 하고 있습니다!<br>
+## 도메인을 이해하고 설계에 집중합니다.
+> 기본에 충실하고 구현보다 설계에 집중하는 AI Native 백엔드 엔지니어를 목표로 하고 있습니다!<br>
 > 👉 Contact: uykmsh@naver.com
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/) <br>
