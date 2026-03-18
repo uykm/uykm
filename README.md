@@ -63,3 +63,4 @@
 ## 🔎 P.S.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=digi11k)](https://solved.ac/digi11k)
+[![uykm's GitHub stats](https://github-readme-stats.vercel.app/api?username=uykm)](https://github.com/uykm/github-readme-stats)
