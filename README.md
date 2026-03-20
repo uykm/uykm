@@ -43,7 +43,7 @@
 
 
 ## 🪪 Certificates
-- SQLD(예정)
+- SQLD(26.03.27)
 - 정보처리기사(예정)
 - OPIc(예정)
 <br></br>
