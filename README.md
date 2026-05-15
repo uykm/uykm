@@ -57,9 +57,3 @@
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 🔎 P.S.
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=digi11k)](https://solved.ac/digi11k)
-[![uykm's GitHub stats](https://github-readme-stats.vercel.app/api?username=uykm)](https://github.com/uykm/github-readme-stats)
