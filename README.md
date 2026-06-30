@@ -18,7 +18,7 @@
 | GDSC 3기 | 2023.08 ~ 2024.08   | Google 개발자 기술에 관심이 있는 학생들을 위한 대학 기반 커뮤니티 그룹, SERVER 파트원 |
 | GDG on Campus 4기 | 2024.09 ~ 2025.08   | Google 개발자 기술에 관심이 있는 학생들을 위한 대학 기반 커뮤니티 그룹, FE 파트원 |
 | AT SOPT 36기 | 2024.03 ~ 2024.07  | 대학생 연합 IT 벤처 창업 연합 동아리 SOPT 36기 Server  |
-| Depromeet 18기 | 2026.03 ~ ing  | 개발자와 디자이너가 만나 '세상에 없던 서비스'를 만들고, 실제 운영까지 경험하는 커뮤니티, 디프만 18기 Server  |
+| Depromeet 18기 | 2026.03 ~ 2026.06  | 개발자와 디자이너가 만나 '세상에 없던 서비스'를 만들고, 실제 운영까지 경험하는 커뮤니티, 디프만 18기 Server  |
 
 
 ## ⏳ Projects
@@ -27,7 +27,9 @@
 |-------------------------|---------------------|------|------|
 | 노졸중            | 2024.06 ~ 2024.10    | 혼자 거주하는 노인의 뇌졸중 위험을 AI 기반 자가점검 시스템을 통해 신속하게 파악하고, 보호자와 연동하여 건강 기록을 관리하는 모바일 애플리케이션  | [GitHub](https://github.com/nostroke-inatools/back) |
 | Memozy | 2025.03 ~ 2025.10 | 기록해두고 싶은 순간들이 있지만, 기록이 귀찮은 사람들이 쉽게 기록할 수 있도록 도와주는 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/memozy/id6744085415), [GitHub](https://github.com/MEMOZY/memozy-back) |
-| 솔플리  | 2024.06 ~ 진행중 | 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/%EC%86%94%ED%94%8C%EB%A6%AC-solply/id6755707238), [GitHub](https://github.com/SOLPLY/SOLPLY-SERVER) |
+| 솔플리  | 2025.06 ~ 2026.01 | 혼자 노는 사람들을 위한 맞춤 지도 서비스 | [서비스 링크(ios)](https://apps.apple.com/kr/app/%EC%86%94%ED%94%8C%EB%A6%AC-solply/id6755707238), [GitHub](https://github.com/SOLPLY/SOLPLY-SERVER) |
+| Readum  | 2026.04 ~ | 독서 후 생각을 정리할 수 있게 도와주는 서비스 | [서비스 링크(web)](https://readum.kr/), [GitHub](https://github.com/depromeet/18th-team4-server) 
+
 
 
 ## 🏆 Awards
