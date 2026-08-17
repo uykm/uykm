@@ -2,7 +2,8 @@
 > 기본에 충실하고, 구현보다 설계에 집중하며, 결과에 책임질 수 있는 AI Native 백엔드 엔지니어를 목표로 하고 있습니다!<br>
 > 👉 Contact: uykmsh@naver.com
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/) <br>
+[![Tistory Badge](https://img.shields.io/badge/Tistory-Uykm__Note-EB531F?style=flat-square&logo=tistory&logoColor=white)](https://ukym-tistory.tistory.com/)
+ <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=uykm.log)](https://velog.io/@uykm)
 
