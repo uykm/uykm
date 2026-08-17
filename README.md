@@ -1,5 +1,5 @@
 ## 도메인을 이해하고 설계에 집중합니다.
-> 기본에 충실하고, 구현보다 설계에 집중하며, 결과에 책임질 수 있는 AI Native 백엔드 엔지니어를 목표로 하고 있습니다!<br>
+> 주어진 제약에서 필요한 문제를 정확히 정의하고 근거를 바탕으로 가장 단순하고 효과적인 해법을 선택하는 엔지니어로 성장하고자 합니다!<br>
 > 👉 Contact: uykmsh@naver.com
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-Uykm__Note-EB531F?style=flat-square&logo=tistory&logoColor=white)](https://ukym-tistory.tistory.com/)
