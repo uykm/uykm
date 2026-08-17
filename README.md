@@ -4,8 +4,7 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Uykm_Note)](https://ukym-tistory.tistory.com/) <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=uykm.log)](https://velog.io/@uykm) <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=uykm)](https://velog.io/@uykm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=uykm.log)](https://velog.io/@uykm)
 
 
 ## ⛓️‍💥 Experience
@@ -46,8 +45,6 @@
 
 ## 🪪 Certificates
 - SQLD(26.03.27)
-- 정보처리기사(예정)
-- OPIc(예정)
 <br></br>
 
 
